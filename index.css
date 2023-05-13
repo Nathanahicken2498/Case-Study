@@ -1,0 +1,57 @@
+button{
+    background-color: transparent;
+    border: none;
+    color: black;
+    margin: 20px 30px;
+  }
+.home{
+    margin-left: 44px;
+  }
+  .resume{
+   float: right;
+   margin-right: 50px;
+  }
+.fw-normal{
+    color: white;
+}
+.bg-red{
+    background-color: #680116;
+}
+.span-full{
+    width: 100%;
+}
+.align-center{
+    text-align: center
+}
+.top-margin{
+    margin-top: 15px;
+}
+.img-small{
+    width: 400px;
+}
+#survey-results{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+#user-persona{
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+#Low-fiWireframe{
+    position: relative;
+    top: 30px;
+    left: 60px;
+    width: 50%;
+
+}
+#Mid-fiWireframe{
+    position: right;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
